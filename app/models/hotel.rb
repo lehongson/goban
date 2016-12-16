@@ -45,7 +45,7 @@ class Hotel < ApplicationRecord
 
   def search_data
     attributes.merge(
-      score: reviews.map(&:rating).sum/reviews.size
+      score: avg_rate
     )
   end
 end

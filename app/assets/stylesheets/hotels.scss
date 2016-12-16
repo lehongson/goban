@@ -313,7 +313,7 @@ li.act > a:hover,  li.act > a:focus , li.act > a:visited{
     border-image: none;
 }
 .font-home-hotel{
-  font-size: 24px;
+  font-size: 28px;
 }
 .font-header-gmail{
   line-height: 34px;
@@ -323,4 +323,69 @@ li.act > a:hover,  li.act > a:focus , li.act > a:visited{
 }
 .top-hotel{
   background-color: #F0F0E9;
+}
+.form-slide-img{
+}
+.item-hotel{
+    padding-top: 5% !important;
+    padding-left: 5% !important;
+    padding-right: 5% !important;
+    height:340px;
+}
+.form-intro-detail-hotel{
+  font-size:18px !important;
+}
+.btn-search-form{
+    margin-top: 13px;
+    font-size: 18px;
+    background-color: #fff;
+    border: 1px gray solid;
+    padding-left: 15px;
+    padding-right: 15px;
+    font-size: 20px;
+    height: 36px;
+    border-radius: 5px;
+}
+.form-modal-search{
+  padding-top:75px;
+  padding-left:10%;
+  padding-right:10%;
+}
+.shop-menu{
+  font-size:20px;
+}
+.title-search button{
+  float: right;
+}
+.font-menu{
+  font-size: 18px;
+}
+.form_right_menu{
+  padding-top: 5px;
+}
+.carousel-inner > .item > img, .carousel-inner > .item > a > img {
+    display: block;
+    padding-top: 5px;
+    width: 100% !important;
+    height: auto;
+    line-height: 1;
+}
+
+.form-title {
+  height: 85px;
+  padding-top: 30px;
+  width: 100%;
+  font-size: 36px;
+}
+
+.header_top {
+   
+    height: 70px;
+    padding-top: 5px;
+}
+.navbar-nav > li > a {
+    color: black !important;
+}
+.list-inline{
+  font-size: 18px;
 }
